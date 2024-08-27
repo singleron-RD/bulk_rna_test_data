@@ -1,2 +1,2 @@
 sample,fastq_1,fastq_2
-AccuraCode_V1,https://github.com/singleron-RD/bulk_rna_test_data/raw/master/AccuraCode/fastq/AccuraCode.R1.fastq.gz,https://github.com/singleron-RD/bulk_rna_test_data/raw/master/AccuraCode/fastq/AccuraCode.R2.fastq.gz
+Test,https://github.com/singleron-RD/bulk_rna_test_data/raw/master/AccuraCode/fastq/test.R1.fastq.gz,https://github.com/singleron-RD/bulk_rna_test_data/raw/master/AccuraCode/fastq/test.R2.fastq.gz
